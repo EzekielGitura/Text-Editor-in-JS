@@ -35,7 +35,4 @@ open index.html
 - How to create a responsive and intuitive user experience.
 - Debugging and testing in a browser environment.
 
-## 🌟 Fun Fact
-This project started as a simple "Hello World" experiment and quickly spiraled into a full-fledged text editor. It’s proof that even small ideas can grow into something amazing!
-
 --- 
